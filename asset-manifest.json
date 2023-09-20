@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/admin-frontline/static/css/main.15a8c3ed.css",
-    "main.js": "/admin-frontline/static/js/main.c91e7936.js",
+    "main.css": "/admin-frontline/static/css/main.0886cb8e.css",
+    "main.js": "/admin-frontline/static/js/main.cc2230ba.js",
     "static/media/Inter-SemiBold.svg": "/admin-frontline/static/media/Inter-SemiBold.f91d0acb38965d6b9818.svg",
     "static/media/Inter-Bold.svg": "/admin-frontline/static/media/Inter-Bold.b975a268ddb6c0e23eb8.svg",
     "static/media/Inter-Medium.svg": "/admin-frontline/static/media/Inter-Medium.07a11a2de02818fffb99.svg",
@@ -52,6 +52,7 @@
     "static/media/footerlogo.svg": "/admin-frontline/static/media/footerlogo.c8b1bd425f7d1d9711ad89a4dd857e2b.svg",
     "static/media/dotted-design.svg": "/admin-frontline/static/media/dotted-design.f242253b9d56224c85ea.svg",
     "static/media/forgot-pwd.svg": "/admin-frontline/static/media/forgot-pwd.2b3cceae7dbbccab804b46e6907f1f63.svg",
+    "static/media/admin-logo.svg": "/admin-frontline/static/media/admin-logo.02ddee217ff0a35061d190e7068e7319.svg",
     "static/media/header_logo.svg": "/admin-frontline/static/media/header_logo.e0fbb6a6a6ad0d8d00c6693fc0634c8d.svg",
     "static/media/admin.png": "/admin-frontline/static/media/admin.92b37d69483498d88d7d.png",
     "static/media/logo-text.svg": "/admin-frontline/static/media/logo-text.5475dd59ec7bf90a20d979dbac7d2452.svg",
@@ -137,11 +138,11 @@
     "static/media/small-down-arrow.svg": "/admin-frontline/static/media/small-down-arrow.076cc4d55ffbbfefa74e.svg",
     "static/media/black-down-arrow.svg": "/admin-frontline/static/media/black-down-arrow.b163fc59dc016b0a6829.svg",
     "static/media/white-down-arrow.svg": "/admin-frontline/static/media/white-down-arrow.620b55945c18d55b9a14.svg",
-    "main.15a8c3ed.css.map": "/admin-frontline/static/css/main.15a8c3ed.css.map",
-    "main.c91e7936.js.map": "/admin-frontline/static/js/main.c91e7936.js.map"
+    "main.0886cb8e.css.map": "/admin-frontline/static/css/main.0886cb8e.css.map",
+    "main.cc2230ba.js.map": "/admin-frontline/static/js/main.cc2230ba.js.map"
   },
   "entrypoints": [
-    "static/css/main.15a8c3ed.css",
-    "static/js/main.c91e7936.js"
+    "static/css/main.0886cb8e.css",
+    "static/js/main.cc2230ba.js"
   ]
 }
