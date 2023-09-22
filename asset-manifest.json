@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/admin-frontline/static/css/main.0886cb8e.css",
-    "main.js": "/admin-frontline/static/js/main.807cbbaf.js",
+    "main.js": "/admin-frontline/static/js/main.f9bf3db6.js",
     "static/media/Inter-SemiBold.svg": "/admin-frontline/static/media/Inter-SemiBold.f91d0acb38965d6b9818.svg",
     "static/media/Inter-Bold.svg": "/admin-frontline/static/media/Inter-Bold.b975a268ddb6c0e23eb8.svg",
     "static/media/Inter-Medium.svg": "/admin-frontline/static/media/Inter-Medium.07a11a2de02818fffb99.svg",
@@ -139,10 +139,10 @@
     "static/media/black-down-arrow.svg": "/admin-frontline/static/media/black-down-arrow.b163fc59dc016b0a6829.svg",
     "static/media/white-down-arrow.svg": "/admin-frontline/static/media/white-down-arrow.620b55945c18d55b9a14.svg",
     "main.0886cb8e.css.map": "/admin-frontline/static/css/main.0886cb8e.css.map",
-    "main.807cbbaf.js.map": "/admin-frontline/static/js/main.807cbbaf.js.map"
+    "main.f9bf3db6.js.map": "/admin-frontline/static/js/main.f9bf3db6.js.map"
   },
   "entrypoints": [
     "static/css/main.0886cb8e.css",
-    "static/js/main.807cbbaf.js"
+    "static/js/main.f9bf3db6.js"
   ]
 }
